@@ -27,5 +27,5 @@ alb:
   version: "main"
 
 eks:
-  source: "https://github.com/r-devops/tf-module-eks.git"
+  source: "https://github.com/Msahu201989/tf-module-eks"
   version: "main"
