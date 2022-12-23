@@ -98,7 +98,7 @@ module "EKS" {
   CREATE_ALB_INGRESS      = false
   CREATE_EXTERNAL_SECRETS = true
   INSTALL_KUBE_METRICS    = true
-#  CREATE_SCP              = false
+  CREATE_SCP              = false
 #  CREATE_NGINX_INGRESS    = true
 }
 
