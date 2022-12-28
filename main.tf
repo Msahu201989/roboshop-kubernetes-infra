@@ -74,7 +74,7 @@ module "rabbitmq" {
 
 
 
-/ in kubernetes we dont need alb
+#/ in kubernetes we dont need alb
 
 #module "alb" {
 #  source   = "./vendor/modules/alb"
